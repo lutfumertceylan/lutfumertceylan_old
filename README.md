@@ -2,6 +2,15 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfumertceylan&layout=compact&theme=material-palenight)
 
+<p align="center">
+  <a href="http://twitter.com/lutfumertceylan">
+    <img src="https://img.shields.io/twitter/follow/lutfumertceylan?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/lutfumertceylan?tab=followers">
+    <img src="https://img.shields.io/github/followers/lutfumertceylan?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
+
 ------
 
 <h2>Write-ups</h2>
