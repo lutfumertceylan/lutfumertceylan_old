@@ -21,7 +21,7 @@
 <a href="https://lutfumertceylan.com.tr/posts/ato-and-data-leakage-via-cors-misc/">EN | Account Takeover and Sensitive Data Leakage via CORS Misconfiguration</a><br>
 <a href="https://lutfumertceylan.com.tr/posts/stored-xss-with-password-recovery-page/">EN | Stored XSS with Password Recovery Page</a><br>
 
-<h2>Exploits / CVEs (I discovered)</h2>
+<h2>Exploits / CVEs (discovered by me)</h2>
 
 <details>
   <summary>CVE-2020-8512</summary>
