@@ -25,11 +25,3 @@
 
 <details>
   <summary>CVE-2020-8512</summary>
-
-  1. IceWarp WebMail 11.4.4.1 Cross-Site Scripting
-     * [https://www.exploit-db.com/exploits/47988](https://www.exploit-db.com/exploits/47988)
-     * [CVE-2020-8512 IceWarp WebMail XSS Exploitation - https://www.youtube.com/watch?v=WJo3-dn3wy4](https://www.youtube.com/watch?v=WJo3-dn3wy4)
-     * [Online Scanner for CVE-2020-8512](https://securityforeveryone.com/tools/icewarp-webmail-xss-cve-2020-8512)
-     * [0day.today Record](https://0day.today/exploit/description/33886)
-     * [National Vulnerability Database](https://nvd.nist.gov/vuln/detail/CVE-2020-8512)
-
