@@ -1,7 +1,7 @@
-![Lütfü Mert Ceylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfumertceylan&show_icons=true&theme=material-palenight)
+<p align="right">![Lütfü Mert Ceylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfumertceylan&show_icons=true&theme=material-palenight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfumertceylan&layout=compact&theme=material-palenight)
-
+</p>
 <p align="center">
   <a href="http://twitter.com/lutfumertceylan">
     <img src="https://img.shields.io/twitter/follow/lutfumertceylan?label=Twitter&logo=twitter&style=for-the-badge" />
